@@ -1,0 +1,40 @@
+.row{
+    margin: 50px;
+    margin-left: 45%;
+}
+.mail{
+    margin-top: 5px;
+}
+.button{
+    width: 170px;
+    height: 35px;
+    background-color: rgba(29, 134, 239, 0.863);
+    color: white;
+    border-radius: 13px;
+    margin-top: 5px;
+}
+.f{
+    margin: 50px;
+    margin-left: 45%;
+}
+.pickup{
+    padding: 10px;
+    margin: 3px;
+}
+.dest{
+    padding: 10px;
+    margin: 3px;
+}
+.request{
+    background-color: black;
+    color: white;
+    padding: 7px;
+}
+.later{
+    background-color: grey;
+    color: white;
+    padding: 7px;
+}
+.d1{
+    padding: 12px;
+}
